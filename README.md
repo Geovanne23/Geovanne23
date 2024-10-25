@@ -5,7 +5,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e tenho uma forte paixã
 </p>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=69% align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geovanne23&theme=dark" /> 
+<img width=69% align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geovanne23&theme=dark" /> 
 <img width=20% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanne23&theme=dark&show_icons=true&hide_border=true&layout=compact" />
  </div>
  
