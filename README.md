@@ -1,4 +1,4 @@
-<img width=100% align="center"  src="https://github.com/user-attachments/assets/ce59a361-7b0f-4cc3-9dff-6d5b3aceba23" /> 
+<img width=100% align="center"  src="https://github.com/user-attachments/assets/03922e34-8b1e-49d5-b326-e67af31640a9" /> 
 
 <p align="center">
 Sou estudante de Análise e Desenvolvimento de Sistemas e tenho uma forte paixão pela tecnologia, além de adorar enfrentar desafios. Essa motivação me impulsiona a buscar constantemente novas oportunidades de aprendizado e crescimento em um campo que está sempre em evolução.
