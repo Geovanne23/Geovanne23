@@ -18,7 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e tenho uma forte paixã
 <div align="left">      
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css&perline=3" />
   </a>
 </p>
 
