@@ -1,19 +1,18 @@
-<img width=100% align="center"  src="https://github.com/user-attachments/assets/03922e34-8b1e-49d5-b326-e67af31640a9" /> 
+<h1>Oii! Eu sou o Geovanne Augusto</h1>
 
-<p align="center">
-Sou estudante de Análise e Desenvolvimento de Sistemas e tenho uma forte paixão pela tecnologia, além de adorar enfrentar desafios. Essa motivação me impulsiona a buscar constantemente novas oportunidades de aprendizado e crescimento em um campo que está sempre em evolução.
-</p>
+ - ⌨️ Estudando JavaScript, React.
 
-<div  align="center" style="margin-bottom:100px">
-<img width=69% align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geovanne23&theme=dark" /> 
-<img width=20% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanne23&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+<div href="https://beacons.ai/Geovanne23">
+<img width=30% align="center" src="https://github-readme-stats.vercel.app/api?username=Geovanne23&show_icons=true&theme=dark" />
+<img width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanne23&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+<img width=30% alt="Foto" align="right" src="https://media.discordapp.net/attachments/1250934605524242493/1398518287515521074/618f083c61a7460ce0a6064319af41bd.gif?ex=6885a726&is=688455a6&hm=7cd4810f0bb2bc32020f9f63d20a6580915f40e1b04e07f96d4e66100647d480&=&width=827&height=465" />
  </div>
- 
+
 
 ## My Skills
 
 
-<h3 align="left"> Skills:</h3>
+<h3 align="left"></h3>
 
 <div align="left">      
 <p>
@@ -22,9 +21,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e tenho uma forte paixã
   </a>
 </p>
 
-#### Stats:
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Geovanne23&theme=dark&hide_border=true" /> 
-
+<div align="center">
+ <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Geovanne23/Geovanne23/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FFF&height=120&section=footer"/>
