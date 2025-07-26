@@ -23,7 +23,7 @@
 
 <div align="center">
  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Geovanne23/cobrinha/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Geovanne23/cobrinha/output/snake.svg" alt="Snake animation" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FFF&height=120&section=footer"/>
