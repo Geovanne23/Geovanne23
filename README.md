@@ -35,7 +35,7 @@ Sou apaixonado por resolver problemas através da tecnologia e criar experiênci
 | Projeto | stack | Status | Link |
 | :--- | :--- | :--- | :--- |
 | **🎥 Filmes e Séries** | `HTML` `CSS` | Concluído | [Acessar 🔗](https://github.com/Geovanne23/Filmes-e-Series) |
-| **🛒 E-Commerce** | `React` `JS` | Em progresso | [Acessar 🔗](https://github.com/Geovanne23/E-Commerce) |
+| **🛒 E-Commerce** | `React` `JS` | Concluído | [Acessar 🔗](https://github.com/Geovanne23/E-Commerce) |
 | **🔐 Login Screen** | `Node.js` `CSS` | Concluído | [Acessar 🔗](https://github.com/Geovanne23/Login-Screen) |
 
 ---
