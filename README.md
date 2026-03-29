@@ -44,8 +44,8 @@ Sou apaixonado por resolver problemas através da tecnologia e criar experiênci
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geovanne23&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovanne23&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 </div>
+
 
 ---
 
