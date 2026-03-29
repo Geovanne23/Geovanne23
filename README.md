@@ -43,8 +43,8 @@ Sou apaixonado por resolver problemas através da tecnologia e criar experiênci
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovanne23&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanne23&layout=compact&theme=tokyonight&border_radius=10" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geovanne23&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovanne23&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 </div>
 
 ---
@@ -54,7 +54,7 @@ Sou apaixonado por resolver problemas através da tecnologia e criar experiênci
 Dê um alô nas minhas redes sociais ou me envie um e-mail!
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/geovanne-augusto" target="_blank">
+  <a href="[linkedin](https://www.linkedin.com/in/geovanne-augusto?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Geovanne.ado@outlook.com">
