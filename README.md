@@ -1,29 +1,70 @@
-<h1>Oii! Eu sou o Geovanne Augusto</h1>
-
- - ⌨️ Estudando JavaScript, React.
-
-<div href="https://beacons.ai/Geovanne23">
-<img width=30% align="center" src="https://github-readme-stats.vercel.app/api?username=Geovanne23&show_icons=true&theme=dark" />
-<img width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanne23&theme=dark&show_icons=true&hide_border=true&layout=compact" />
- <img width=30% alt="Foto" align="right" src="https://media.discordapp.net/attachments/1250934605524242493/1398518287515521074/618f083c61a7460ce0a6064319af41bd.gif?ex=6885a726&is=688455a6&hm=7cd4810f0bb2bc32020f9f63d20a6580915f40e1b04e07f96d4e66100647d480&=&width=827&height=465" />
- </div>
-
-
-## My Skills
-
-
-<h3 align="left"></h3>
-
-<div align="left">      
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=3" />
-  </a>
-</p>
-
 <div align="center">
- <br>
-  <img src="https://raw.githubusercontent.com/Geovanne23/Geovanne23/output/snake.svg" alt="Snake animation" />
+  <h1>Olá, eu sou o Geovanne! 👋</h1>
+  
+  <a href="https://github.com/Geovanne23">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=436&lines=Desenvolvedor+Front-end;Apaixonado+por+JavaScript;Construindo+interfaces+web" alt="Typing SVG" />
+  </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FFF&height=120&section=footer"/>
+---
+
+## 👨‍💻 Sobre Mim
+Sou apaixonado por resolver problemas através da tecnologia e criar experiências digitais que impactam a vida das pessoas. 
+
+- 🚀 Focado em aperfeiçoar minhas habilidades em **JavaScript** e no ecossistema **Front-end**.
+- 💡 Buscando sempre aprender novas tecnologias e aplicar boas práticas de desenvolvimento.
+- 🌱 No momento, estou estudando **React** a fundo.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="javascript" />
+  <img src="https://img.shields.io/badge/Reactjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="react" />
+  <img src="https://img.shields.io/badge/Html-F05032?style=for-the-badge&logo=git&logoColor=white" alt="html" />
+  <img src="https://img.shields.io/badge/css-F05032?style=for-the-badge&logo=git&logoColor=white" alt="css" />
+</div>
+
+---
+
+## 📂 Projetos em Destaque
+
+> Explore alguns dos meus principais repositórios:
+
+| Projeto | stack | Status | Link |
+| :--- | :--- | :--- | :--- |
+| **🎥 Filmes e Séries** | `HTML` `CSS` | Concluído | [Acessar 🔗](https://github.com/Geovanne23/Filmes-e-Series) |
+| **🛒 E-Commerce** | `React` `JS` | Em progresso | [Acessar 🔗](https://github.com/Geovanne23/E-Commerce) |
+| **🔐 Login Screen** | `Node.js` `CSS` | Concluído | [Acessar 🔗](https://github.com/Geovanne23/Login-Screen) |
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovanne23&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanne23&layout=compact&theme=tokyonight&border_radius=10" />
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+Dê um alô nas minhas redes sociais ou me envie um e-mail!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/geovanne-augusto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Geovanne.ado@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil! 🚀<br>
+  <b>Desenvolvido por Geovanne Augusto</b>
+</p>
